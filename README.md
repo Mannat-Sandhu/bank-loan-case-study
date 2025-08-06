@@ -33,3 +33,6 @@ From these analysis we can interpret that:
 - **Data imbalance:** through this we can analyse the difference between the categories of a column. This gives the ratio of imbalance in categorical data such as gender, loan type, educational qualification, etc. which is crucial for building business models and understanding the targets.
 - **Univariate, Segmented Univariate, and Bivariate Analysis:** these analysis helps in understanding the high demand categories, potential demands of target variables and comparison between 2 variables such as amt_income_total and amt_credit which helps in defining the risks of loan defaults.
 - **Correlations:** these analysis defined the relationship between 2 variables which helps in understanding possible outcomes. The values of positive 1 indicates linear relationships between variables whereas negative 1 indicates inverse relationship. The value of 0 indicates no linear relationship.
+
+# Working Project
+https://drive.google.com/drive/folders/1x7XO4eyNlVKqjWCPfzCwkQB85faA7sAX?usp=drive_link
